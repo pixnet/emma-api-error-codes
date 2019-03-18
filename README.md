@@ -124,6 +124,11 @@ API Error Codes
 | | 輸入欄位驗證錯誤 | 使用者 | 5007 | 400 | Invalid gender type |
 | | 輸入欄位驗證錯誤 | 使用者 | 5008 | 400 | The cellphone number has been verified. |
 | | 輸入欄位驗證錯誤 | 使用者 | 5009 | 400 | Duplicate Verification of cellphone number in 30 minutes. |
+| | 輸入欄位驗證錯誤 | 使用者 | 5010 | 400 | Param co_email is invalid |
+| | 輸入欄位驗證錯誤 | 使用者 | 5011 | 400 | Param fb_page is invalid |
+| | 輸入欄位驗證錯誤 | 使用者 | 5012 | 400 | Param instagram is invalid |
+| | 輸入欄位驗證錯誤 | 使用者 | 5013 | 400 | Param youtube is invalid |
+| | 輸入欄位驗證錯誤 | 使用者 | 5014 | 400 | Param hourmaster is invalid |
 | | 輸入欄位驗證錯誤 | 部落格 | 5101 | 400 | 請填入作者 |
 | | 輸入欄位驗證錯誤 | 部落格 | 5102 | 400 | 請填入留言內容 |
 | | 輸入欄位驗證錯誤 | 部落格 | 5103 | 400 | Param blog\_name length is too long |
