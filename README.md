@@ -9,7 +9,7 @@
 | 認證錯誤 | Token | 1002 | 401 | Without Consumer Key | 沒有 Consumer Key |
 | 認證錯誤 | Token | 1003 | 401 | You have to be authorized to post here. | 需要認證，請帶入 Access Token |
 | 認證錯誤 | Token | 1004 | 401 | The developer account for this API Key requires cell phone number verification. | 這個 API Key 的開發者帳號需要通過手機號碼認證 |
-| 認證錯誤 | Token | 1099 | 401 | \(其他 Token 錯誤\) | \(其他 Token 錯誤 |
+| 認證錯誤 | Token | 1099 | 401 | \(其他 Token 錯誤\) | \(其他 Token 錯誤\) |
 | 認證錯誤 | 網路 | 1100 | 401 | IP Regex failed | 您的 IP 位址不被允許使用此 API |
 | 認證錯誤 | 網路 | 1101 | 403 | Wrong Protocol, Please use HTTPS | 請使用 HTTPS 連接 API |
 | 認證錯誤 | 網路 | 1102 | 403 | Wrong HTTP Method, requires \(GET/POST\) | 錯誤的 HTTP 方法，請確認說明文件 |
