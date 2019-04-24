@@ -49,6 +49,7 @@
 | 找不到東西 | 留言板 | 2400 | 404 | Guestbook is not activated | 使用者尚未開啟留言板 |
 | 找不到東西 | 留言板 | 2401 | 404 | Guestbook article is not found. | 找不到留言板留言 |
 | 找不到東西 | MIB | 2500 | 404 | MIB services is not applied | 使用者尚未開啟 MIB |
+| 找不到東西 | POI | 2600 | 404 | 找不到 POI | |
 | 找不到東西 | 其他 | 2901 | 404 | Gritter Message is not found. | 找不到 Gritter Message |
 | 找不到東西 | 其他 | 2902 | 404 | URL not found | 找不到這個網址 |
 
@@ -149,6 +150,7 @@
 | 輸入欄位驗證錯誤 | MIB | 5505 | 400 | id\_image\_back file error, please register again. | |
 | 輸入欄位驗證錯誤 | MIB | 5506 | 400 | this email has been registered by another user. | |
 | 輸入欄位驗證錯誤 | MIB | 5507 | 400 | id\_number is too long. | 身份證號過長 |
+| 輸入欄位驗證錯誤 | POI | 5600 | 400 | POI hash id 錯誤 | |
 
 ## 內部錯誤
 
@@ -187,4 +189,5 @@
 | 內部錯誤 | MIB | 8500 | 500 | Register MIB advertisement info failed, please try again later. | |
 | 內部錯誤 | MIB | 8501 | 500 | MIB system is busy | |
 | 內部錯誤 | MIB | 8502 | 500 | Update MIB advertisement position failed. | |
+| 內部錯誤 | POI | 8600 | 500 | Get POI failed | |
 | 內部錯誤 | 其他 | 8900 | 500 | Internal application error | |
