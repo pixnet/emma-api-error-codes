@@ -108,6 +108,7 @@
 | 輸入錯誤 | 狀態不符合 | 4213 | 400 | Has asked for payment this month | 已申請出帳，系統處理中 |
 | 輸入錯誤 | 狀態不符合 | 4214 | 400 | Remains less than threshold | 餘額未達申請條件 |
 | 輸入錯誤 | 狀態不符合 | 4215 | 400 | Scheduled payment | 已排程出帳 |
+| 輸入錯誤 | 狀態不符合 | 4216 | 400 | Invalid %s format | |
 | 輸入錯誤 | Rate | 4300 | 403 | User is posting comments too fast. | |
 | 輸入錯誤 | Rate | 4301 | 403 | User is posting guestbook articles too fast. | |
 
