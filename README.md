@@ -50,6 +50,7 @@
 | 找不到東西 | 留言板 | 2401 | 404 | Guestbook article is not found. | 找不到留言板留言 |
 | 找不到東西 | MIB | 2500 | 404 | MIB services is not applied | 使用者尚未開啟 MIB |
 | 找不到東西 | POI | 2600 | 404 | POI not found | 找不到 POI |
+| 找不到東西 | Explorer | 2700 | 404 | Job not found | 找不到 Job |
 | 找不到東西 | 其他 | 2901 | 404 | Gritter Message is not found. | 找不到 Gritter Message |
 | 找不到東西 | 其他 | 2902 | 404 | URL not found | 找不到這個網址 |
 
