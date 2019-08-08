@@ -192,4 +192,5 @@
 | 內部錯誤 | MIB | 8501 | 500 | MIB system is busy | |
 | 內部錯誤 | MIB | 8502 | 500 | Update MIB advertisement position failed. | |
 | 內部錯誤 | POI | 8600 | 500 | Get POI failed | |
+| 內部錯誤 | POI | 8601 | 500 | Create POI comment failed | |
 | 內部錯誤 | 其他 | 8900 | 500 | Internal application error | |
